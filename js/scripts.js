@@ -28,6 +28,8 @@ var quotes = [
     ['Just don’t give up trying to do what you really want to do. Where there’s love and inspiration, I don’t think you can go wrong.', 'Ella Jane Fitzgerald']
 	['No matter what people tell you, words and ideas can change the world.', 'Robin Williams'],
 	['I believe in living today. Not in yesterday, nor in tomorrow.', 'Loretta Young']
+	['Try to be a rainbow in someone\'s cloud.','Maya Angelou'],
+	['Nothing is impossible, the word itself says \'I\'m possible\'.','Audrey Hepburn'],
 ];
 
 // ** - indicates code hasn't been written yet
